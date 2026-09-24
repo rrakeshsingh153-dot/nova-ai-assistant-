@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI - Voice Assistant",
+  "description": "Mobile-friendly Android AI voice assistant with bilingual Hindi & English speech, glowing futuristic orb, memory, and chat history.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
